@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GestionClient</string>
+    <string name="client_name">Nom</string>
+    <string name="client_add">Ajouter</string>
+    <string name="first_name">Prénom</string>
+    <string name="gender_male">Homme</string>
+    <string name="gender">Sexe</string>
+    <string name="gender_female">Femme</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="level">Niveau</string>
+    <string name="active_switch">Inactif</string>
+    <string-array name="level_items">
+        <item>Débutant</item>
+        <item>Intermédiaire</item>
+        <item>Avancé</item>
+    </string-array>
+</resources>
