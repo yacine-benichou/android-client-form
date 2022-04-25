@@ -10,6 +10,13 @@
     <string name="age">Age</string>
     <string name="level">Niveau</string>
     <string name="active_switch">Inactif</string>
+    <string name="home_add_client">Ajouter un client</string>
+    <string name="home_list_clients">Lister les clients</string>
+    <string name="confirm_delete_dialog_title">Confirmation</string>
+    <string name="confirm_delete_dialog_message">Sûr de toi ?</string>
+    <string name="yes">Oui</string>
+    <string name="toast_client_deleted">Le client a été supprimé</string>
+    <string name="no">Non</string>
     <string-array name="level_items">
         <item>Débutant</item>
         <item>Intermédiaire</item>

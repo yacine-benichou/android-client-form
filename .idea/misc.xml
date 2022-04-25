@@ -5,9 +5,17 @@
       <map>
         <entry key="..\:/Users/User/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/activity_list_item.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/User/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.11302083333333333" />
+        <entry key="..\:/download/GestionClientMIN1/app/src/main/res/drawable/ic_baseline_person_add_24.xml" value="0.2265" />
+        <entry key="..\:/download/GestionClientMIN1/app/src/main/res/drawable/ic_baseline_sync_24.xml" value="0.124" />
         <entry key="..\:/download/GestionClientMIN1/app/src/main/res/layout-v26/activity_add_client.xml" value="0.1" />
         <entry key="..\:/download/GestionClientMIN1/app/src/main/res/layout/activity_add_client.xml" value="0.264" />
+        <entry key="..\:/download/GestionClientMIN1/app/src/main/res/layout/activity_details_client.xml" value="0.24010416666666667" />
+        <entry key="..\:/download/GestionClientMIN1/app/src/main/res/layout/activity_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/download/GestionClientMIN1/app/src/main/res/layout/activity_list_client.xml" value="0.1421875" />
         <entry key="..\:/download/GestionClientMIN1/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/download/GestionClientMIN1/app/src/main/res/layout/adapter_client.xml" value="0.1421875" />
+        <entry key="..\:/download/GestionClientMIN1/app/src/main/res/menu/details_client.xml" value="0.1" />
+        <entry key="..\:/download/GestionClientMIN1/app/src/main/res/menu/list_clients.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

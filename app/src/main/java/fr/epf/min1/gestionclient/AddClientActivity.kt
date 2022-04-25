@@ -80,11 +80,12 @@ class AddClientActivity : AppCompatActivity(), AdapterView.OnItemSelectedListene
             Log.d("EPF", "Age : ${ageTextView.text}")
             Log.d("EPF", "Niveau : ${levelSpinner.selectedItem}")
             Log.d("EPF", "état : ${switchTextView.text}")
+            finish()
         }
     }
 
     override fun onItemSelected(p0: AdapterView<*>?, p1: View?, p2: Int, p3: Long) {
-        Toast.makeText(this, "LOL", Toast.LENGTH_SHORT).show()
+
     }
 
     override fun onNothingSelected(p0: AdapterView<*>?) {
